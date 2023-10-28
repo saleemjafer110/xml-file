@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+<aptech>
+    <faculty>
+        <facultyname>saleem</facultyname>
+        <facultyemail>saleemjaferi22@gmail.com</facultyemail>
+        <facultycity>karachi</facultycity>
+        <facultysalary>90000</facultysalary>
+        <facultyimage>img1.jpeg</facultyimage>
+    </faculty>
+</aptech>
