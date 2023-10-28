@@ -1,1 +1,2 @@
 # xml-file
+<?xml>
